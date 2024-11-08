@@ -1,0 +1,6 @@
+{
+  "$schema": "https://inlang.com/schema/inlang-message-format",
+  "ABOUT_US": "About us",
+  "CURRENT_PAGE": "Current page: {page}",
+  "HOMEPAGE": "Homepage"
+}
